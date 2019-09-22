@@ -9,7 +9,7 @@ Skrytpy zamieszczone w tym miejscu można uruchamiać w środowisku online [Cola
 * [Podstawy programowania w Python II](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Podstawy_programowania_w_Python_dodatkowe.ipynb)
 
 ### Przykładowe zadania
-* [Kilka zadań przykładowych z rozwiązaniami](https://github.com/rroszczyk/Python/blob/master/Przyk%C5%82adowe_zadania.ipynb)
-* [Zadanie z prostokątami z omówieniem](https://github.com/rroszczyk/Python/blob/master/Zadanie_z_prostok%C4%85tami.ipynb)
-* [Gra w życie - wersja jednolinijkowa](https://github.com/rroszczyk/Python/blob/master/Zycie.ipynb)
-* [Przkład użycia żółwia w Colabie](https://github.com/rroszczyk/Python/blob/master/Zolw.ipynb)
+* [Kilka zadań przykładowych z rozwiązaniami](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Przyk%C5%82adowe_zadania.ipynb)
+* [Zadanie z prostokątami z omówieniem](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Zadanie_z_prostok%C4%85tami.ipynb)
+* [Gra w życie - wersja jednolinijkowa](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Zycie.ipynb)
+* [Przkład użycia żółwia w Colabie](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Zolw.ipynb)
