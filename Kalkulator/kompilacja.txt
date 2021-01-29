@@ -1,0 +1,9 @@
+# Instalacja paczki pyinstaller
+pip install pyinstaller
+
+# kompilacja aplikacji do pliku wykonywalnego .exe
+pyinstaller --onefile -w --add-binary "calc_icon.png;." .\kalkulator.py
+
+# --onefile -> kompilacja do jednego pliku .exe, bez tego pyinstaller stworzy odpowiednie katalogi pomocniczne z zaimportowanymi biblotekami
+# -w -> konieczne dla aplikacji okienkowych, bez tego aplikacja odpalana jest przez konsole
+# --add-binary "calc_icon.png;." dodanie pliku obrazu, składnia --add-binary "ścierzka_wejściowa_do_pliku;ścierzka_po_kompilacji"
