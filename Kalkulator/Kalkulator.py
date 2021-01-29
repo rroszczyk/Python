@@ -3,7 +3,15 @@ from tkinter.font import *
 
 root = Tk()   # Główny obiekt, w którym umieszczone są wszystkie pozostałe elementy interfejsu
 root.title("Kalkulator")
-root.iconphoto(True, PhotoImage(file="calc_icon.png"))   # Dodanie ikonki do aplikacji
+
+if getattr(sys, 'frozen', False):   # w przypadku uruchamiania po kompilacji
+    running_dir = sys._MEIPASS + "./"
+else: 
+    running_dir = "./"
+icon_file_name = running_dir + "calc_icon.png"
+if os.path.isfile(icon_file_name):
+    root.iconphoto(True, PhotoImage(file=icon_file_name))   # Dodanie ikonki do aplikacji
+    
 root.geometry("300x400")   # rozmiar aplikacji 300px szerokości, 400px wysokości
 
 Grid.rowconfigure(root, 0, weight=1)   # skalowanie wierszy z wagą 1
