@@ -1,0 +1,1 @@
+przykład w python
