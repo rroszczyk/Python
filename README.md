@@ -17,6 +17,7 @@ Wprowadzenie do języka Python - listy
 * [Wprowadzenie do programowania w Python część IV](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_IV.ipynb)
 Wprowadzenie do języka Python - słowniki
 * [Operacje plikowe w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/operacje_na_plikach.ipynb)
+* [Podstawy obiektowości w języku Python](https://github.com/rroszczyk/Python/blob/master/obiektowy_python.ipynb) Podstawy obiektowości w języku Python
 
 ### Przykładowe implementacje w języku Python
 * [Proste przykłady zrealizowane w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Implementacje/przykladowe_zadania.ipynb)
