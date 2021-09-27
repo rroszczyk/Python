@@ -5,6 +5,7 @@ Skrytpy zamieszczone w tym miejscu można uruchamiać w środowisku online [Cola
 
 ### Prezentacje z zajęć
 * [Programowanie w języku Python](https://github.com/rroszczyk/Python/blob/master/Prezentacje/Python_II.pdf) Programowanie w języku Python
+* [Programowanie obiektowe w języku Python](https://github.com/rroszczyk/Python/blob/master/Prezentacje/Python_IV.pdf) Programowanie obiektowe w języku Python
 
 ### Wprowadzenie do języka Python
 * [Wprowadzenie do programowania w Python część I](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Python_I.ipynb)
