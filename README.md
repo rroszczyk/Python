@@ -16,6 +16,8 @@ Wprowadzenie do języka Python - konstrukcje zaawansowane
 Wprowadzenie do języka Python - listy
 * [Wprowadzenie do programowania w Python część IV](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_IV.ipynb)
 Wprowadzenie do języka Python - słowniki
+* [Wprowadzenie do programowania w Python część V](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_V.ipynb)
+Obsługa błędów oraz plików
 * [Operacje plikowe w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/operacje_na_plikach.ipynb)
 * [Podstawy obiektowości w języku Python](https://github.com/rroszczyk/Python/blob/master/obiektowy_python.ipynb) Podstawy obiektowości w języku Python
 
