@@ -28,7 +28,7 @@ Wprowadzenie do obiektowości - obiekt osoba
 * [Podstawy obiektowości w języku Python](https://github.com/rroszczyk/Python/blob/master/obiektowy_python.ipynb) Podstawy obiektowości w języku Python
 
 ### Tworzenie plików wykonywalnych z Python
-* [Instrukcja tworzenia plików wykonywalnych](http://localhost:4000/python/python-tworzenie-plikow-wykonywalnych/)
+* [Instrukcja tworzenia plików wykonywalnych](https://blog.roszczyk.net/python/python-tworzenie-plikow-wykonywalnych/)
 
 ### Przykładowe implementacje w języku Python
 * [Proste przykłady zrealizowane w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Implementacje/przykladowe_zadania.ipynb)
