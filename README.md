@@ -18,7 +18,7 @@ Wprowadzenie do języka Python - listy
 Wprowadzenie do języka Python - słowniki
 * [Wprowadzenie do programowania w Python część V](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_V.ipynb)
 Obsługa błędów oraz plików
-* [Wprowadzenie do programowania w Python część VI](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Python cz. 6.ipynb)
+* [Wprowadzenie do programowania w Python część VI]("https://colab.research.google.com/github/rroszczyk/Python/blob/master/Python cz. 6.ipynb")
 Wprowadzenie do obiektowości w Python
 * [Wprowadzenie do programowania w Python część VI dodatkowa](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Python cz. 6 - materiały dodatkowe.ipynb)
 Wprowadzenie do obiektowości w Python
