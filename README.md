@@ -21,7 +21,9 @@ Obsługa błędów oraz plików
 * [Wprowadzenie do programowania w Python część VI](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_VI.ipynb)
 Wprowadzenie do obiektowości w Python
 * [Wprowadzenie do programowania w Python część VI dodatkowa](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_VI_dodatkowe.ipynb)
-Wprowadzenie do obiektowości w Python
+Wprowadzenie do obiektowości w Python część dodatkowa
+* [Wprowadzenie do programowania w Python część VI dodatkowa](https://colab.research.google.com/github/rroszczyk/Python/blob/master/podstawy_programowania_w_Pyton_VI_osoba.ipynb)
+Wprowadzenie do obiektowości - obiekt osoba
 * [Operacje plikowe w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/operacje_na_plikach.ipynb)
 * [Podstawy obiektowości w języku Python](https://github.com/rroszczyk/Python/blob/master/obiektowy_python.ipynb) Podstawy obiektowości w języku Python
 
