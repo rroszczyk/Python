@@ -28,7 +28,7 @@ Wprowadzenie do obiektowości - obiekt osoba
 * [Podstawy obiektowości w języku Python](https://github.com/rroszczyk/Python/blob/master/obiektowy_python.ipynb) Podstawy obiektowości w języku Python
 * [Moduły w języku Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/Python_cz_8.ipynb) Moduły w języku Python
 * [Wysyłanie maili z poziomu Python](https://colab.research.google.com/github/rroszczyk/Python/blob/master/wysylanie_maili.ipynb) Wysyłanie maili z poziomu Python
-* [Automatyzacja przeglądarki - pobieranie danych ze strony WWW](https://colab.research.google.com/github/rroszczyk/Python/blob/master/pobieranie_danych.ipynb)Automatyzacja przeglądarki - pobieranie danych ze strony WWW
+* [Automatyzacja przeglądarki - pobieranie danych ze strony WWW](https://colab.research.google.com/github/rroszczyk/Python/blob/master/pobieranie_danych.ipynb) Automatyzacja przeglądarki - pobieranie danych ze strony WWW
 
 ### Tworzenie plików wykonywalnych z Python
 * [Instrukcja tworzenia plików wykonywalnych](https://blog.roszczyk.net/python/python-tworzenie-plikow-wykonywalnych/)
