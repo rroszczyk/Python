@@ -1,0 +1,1 @@
+Opisz mechanizmów szyfrowania
