@@ -48,3 +48,5 @@ Wprowadzenie do obiektowości - obiekt osoba
 * [Przykłady błędów i ich obsługi](https://colab.research.google.com/github/rroszczyk/Python/blob/master/bledy_oprogramowania.ipynb)
 
 Uwaga: do poprawnego działania niektóych przykładów należy pobrać do swojego obszaru roboczego pliki .txt z repozytorium (katalog pliki) bądź uruchomić mechanizm pobierania zawarty w pliku
+
+Coś dodajemy
