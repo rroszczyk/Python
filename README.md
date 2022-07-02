@@ -1,5 +1,7 @@
 # Python
 
+## https://github.com/rroszczyk/Python
+
 ## Zanim zaczniesz
 Skrytpy zamieszczone w tym miejscu można uruchamiać w środowisku online [Colaboratory](https://colab.research.google.com) Środowisko to pozwala na bezpośrednie interakcyjne uruchamianie skryptów. Poniżej znajdziesz skrypty podzielone tematycznie.
 
