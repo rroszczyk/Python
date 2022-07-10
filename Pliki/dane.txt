@@ -1,0 +1,7 @@
+Peter|Peterson|182|181
+James|Jameson|175|92
+Martha|Mathwe|168|55
+Bruce|Wintersteen|179|76
+Charles|Xavier|170|68
+Alexander|Aymes|183|78
+Rebecca|Rebing|175|62
