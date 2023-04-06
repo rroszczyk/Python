@@ -1,0 +1,51 @@
+{
+    "activeFile": "data/tutorial.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "data"
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "data/erik.tsx": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.json": {
+            "scale": 2.3032552083333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 192.33648029849059,
+                "y": 192.11939623494828
+            }
+        },
+        "data/tutorial.json#egpt": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.json#generic": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.tmx": {
+            "scale": 2.3032552083333333,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 222.07699700378768,
+                "y": 210.78862569958733
+            }
+        },
+        "data/tutorial.tmx#egpt": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.tmx#generic": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/home/roszczyr/Python/Tiled/tutorial/data",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "openFiles": [
+        "data/tutorial.tmx"
+    ],
+    "project": "tutorial.tiled-project",
+    "recentFiles": [
+        "data/tutorial.tmx",
+        "data/tutorial.json"
+    ]
+}

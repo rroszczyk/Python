@@ -1,0 +1,60 @@
+{
+    "activeFile": "data/tutorial.tmx",
+    "expandedProjectPaths": [
+        "data",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "data/baleog.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/egpt.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/enemies.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/erik.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/tutorial.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 190.75,
+                "y": 171.75
+            }
+        },
+        "data/tutorial.tmx#egpt": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.tmx#elevator": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.tmx#generic": {
+            "scaleInDock": 1
+        },
+        "data/tutorial.tmx#movable_rock": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "data/baleog.tsx",
+        "data/enemies.tsx",
+        "data/erik.tsx",
+        "data/tutorial.tmx"
+    ],
+    "project": "sample.tiled-project",
+    "recentFiles": [
+        "data/baleog.tsx",
+        "data/enemies.tsx",
+        "data/erik.tsx",
+        "data/tutorial.tmx",
+        "data/egpt.tsx"
+    ]
+}

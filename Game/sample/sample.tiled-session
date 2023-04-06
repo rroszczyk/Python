@@ -1,0 +1,57 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "Level 1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "Olaf.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "bez nazwy.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 286.3333333333333,
+                "y": 64.33333333333334
+            }
+        },
+        "generic.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "/home/roszczyr/Python/Tiled/sample/Images",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 40,
+    "openFiles": [
+        "Level 1.tsx",
+        "Olaf.tsx",
+        "generic.tsx"
+    ],
+    "project": "sample.tiled-project",
+    "recentFiles": [
+        "generic.tsx",
+        "Olaf.tsx",
+        "Level 1.tsx",
+        "bez nazwy.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.transparentColor": "#680098",
+    "tileset.useTransparentColor": true
+}

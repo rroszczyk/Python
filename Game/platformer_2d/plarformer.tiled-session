@@ -1,0 +1,159 @@
+{
+    "activeFile": "data/wrbc.tmx",
+    "expandedProjectPaths": [
+        "data",
+        "."
+    ],
+    "file.lastUsedOpenFilter": "Wszystkie pliki (*)",
+    "fileStates": {
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/map2_level_1.json": {
+            "scale": 0.183876953125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2564.214775080992,
+                "y": 1090.4031015985977
+            }
+        },
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/map2_level_1.json#tileset": {
+            "scaleInDock": 1
+        },
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/test_map_1.json": {
+            "scale": 0.7355078125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 641.053693770248,
+                "y": 320.1869456689149
+            }
+        },
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/test_map_1.json#tiles": {
+            "scaleInDock": 1
+        },
+        "data/baleog.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/coconut.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/egpt.tmx": {
+            "scale": 1.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 280.33333333333326,
+                "y": 170.33333333333334
+            }
+        },
+        "data/egpt.tmx#egpt": {
+            "scaleInDock": 1
+        },
+        "data/egpt.tmx#erik": {
+            "scaleInDock": 1
+        },
+        "data/egpt.tmx#generic": {
+            "scaleInDock": 1
+        },
+        "data/elevator.tsx": {
+            "scaleInDock": 1
+        },
+        "data/enemies.tsx": {
+            "scaleInDock": 1
+        },
+        "data/erik.tsx": {
+            "scaleInDock": 1
+        },
+        "data/generic.tsx": {
+            "scaleInDock": 1
+        },
+        "data/movable_rock.tsx": {
+            "scaleInDock": 1
+        },
+        "data/olaf.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/scorpion.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/scorpion_shot.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/scorpionshot.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "data/slope_test.tmx": {
+            "scale": 1.8426041666666666,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 233.63672338741594,
+                "y": 202.15953417378032
+            }
+        },
+        "data/slope_test.tmx#erik": {
+            "scaleInDock": 1
+        },
+        "data/slope_test.tmx#olaf": {
+            "scaleInDock": 1
+        },
+        "data/strt.tmx": {
+            "scale": 1.324676724137931,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 215.52428211177096,
+                "y": 405.00447409094613
+            }
+        },
+        "data/strt.tmx#world1": {
+            "scaleInDock": 1
+        },
+        "data/test_aibrain.tmx": {
+            "scale": 1.2805208333333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 239.3557309037664,
+                "y": 350.24810867973645
+            }
+        },
+        "data/wrbc.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 788.75,
+                "y": 172.25
+            }
+        },
+        "data/wrbc.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/home/roszczyr/Python/Tiled/platformer_2d",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "openFiles": [
+        "data/egpt.tmx",
+        "data/slope_test.tmx",
+        "data/strt.tmx",
+        "data/test_aibrain.tmx",
+        "data/wrbc.tmx",
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/test_map_1.json",
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/map2_level_1.json"
+    ],
+    "project": "plarformer.tiled-project",
+    "recentFiles": [
+        "data/egpt.tmx",
+        "data/slope_test.tmx",
+        "data/strt.tmx",
+        "data/test_aibrain.tmx",
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/map2_level_1.json",
+        "/home/roszczyr/Python/Tiled/resources/tiled_maps/test_map_1.json",
+        "data/wrbc.tmx",
+        "data/scorpionshot.tsx",
+        "data/scorpion.tsx",
+        "data/scorpion_shot.tsx",
+        "data/olaf.tsx",
+        "data/coconut.tsx"
+    ]
+}
